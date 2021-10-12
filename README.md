@@ -15,6 +15,4 @@ Keep spam away from your Snap<i>!</i> Projects!
 
 Have fun!
 ___
-Have suggestions? Post down below and we will see what happens!
-___
 <small>You can also check out the site [HERE](https://snap-extensions.joecooldoo.repl.co/).
